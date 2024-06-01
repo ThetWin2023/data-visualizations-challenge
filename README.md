@@ -1,7 +1,7 @@
 # Data Analytics and Visualizations Bootcamp 
-# Student Name: Thet Win
-# Module 5 - Data Visualizations
+## Module 5 - Data Visualizations
 
+Student Name: Thet Win
 Modified Date: June 1, 2024
 
 This program assists a pharmaceutical company that specializes in anti-cancer medications
