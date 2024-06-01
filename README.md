@@ -1,5 +1,5 @@
 # Data Analytics and Visualization Bootcamp 
-## Module 5 - Data Visualizations
+## Module 5 - Data Visualization
 
 Student Name: Thet Win
 
